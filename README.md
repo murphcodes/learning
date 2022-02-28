@@ -1,3 +1,3 @@
-#Learning
+# Learning
 
-Just introducing myself into GitHub
+Just introducing myself into GitHub!
